@@ -45,7 +45,7 @@ function autoCook(){
 }
 
 function affMulti(){
-     multi.innerHTML='x '+multiple+ ' et pour passer à  '+(multiple+1) +' il faut plus de '+prix+' points';
+     multi.innerHTML='x '+multiple+ ' pour passer à  x'+(multiple+1) +' il vous faut plus de '+prix+' points';
 }
 
 /*___Action___*/
